@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704598593737,
+      "tag": "0000_overrated_hardball",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704619988692,
+      "tag": "0001_fearless_wild_child",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1704624622018,
+      "tag": "0002_even_havok",
+      "breakpoints": true
+    }
+  ]
+}
