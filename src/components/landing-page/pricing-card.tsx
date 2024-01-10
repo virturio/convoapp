@@ -45,7 +45,7 @@ export const PricingCard: FC<PricingCardProps> = ({
               alt="Pro plan icon"
               width={24}
               height={24}
-              className=" absolute top-0 right-0"
+              className=" absolute top-4 right-4"
             />
           )}
           <span className=" block mt-4">{planType}</span>
